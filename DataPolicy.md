@@ -2,10 +2,10 @@
 
 ## Summary
 
-1. [Introduction](#Introduction)
-2. [How to be compliant as a software vendor](#The-data-we-collect)
-3. [What data we collect](#The-data-we-collect)
-4. [Safeguarding measures](#The-data-we-collect)
+1. [Introduction](#introduction)
+2. [How to be compliant as a software vendor](#how-to-be-compliant-as-a-software-vendor)
+3. [What data we collect](#what-data-we-collect)
+4. [Safeguarding measures](#safeguarding-measures)
 
 ## Introduction
 This document summarizes the data being stored by Cryptolens AB ("Cryptolens") to provide the service SKM (https://serialkeymanager.com/) and the protection measures we have in place to safeguard against accidental loss and data breach.
